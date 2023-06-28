@@ -1,0 +1,158 @@
+{
+    "food": 
+        [
+            {
+                "id":1,
+                "name": "Burger",
+                "price": 30000,
+                "description": "A delicious burger",
+                "categories": [{"name": "Meat", "color": "#22c55e"}, {"name": "Fast Food", "color": "#fa8e3c"}, {"name":"Favorite", "color": "#ef4444"}],
+                "rating": 4.5,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/burger.jpg"
+            },
+            {
+                "id":2,
+                "name": "Pizza",
+                "price": 50000,
+                "description": "A delicious pizza",
+                "categories": [{"name": "Fast Food", "color": "#fa8e3c"}],
+                "rating": 4.7,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/pizza.jpg"
+            },
+            {
+                "id":3,
+                "name": "Salad",
+                "price": 10000,
+                "description": "A delicious salad",
+                "categories": [{"name":"Healthy", "color": "#14b8a6"}],
+                "rating": 4.2,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/salad.jpg"
+            },
+            {
+                "id":4,
+                "name": "Steak",
+                "price": 20000,
+                "description": "A delicious steak",
+                "categories": [{"name": "Meat", "color": "#22c55e"}, {"name":"Favorite", "color": "#ef4444"}],
+                "rating": 4.8,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/steak.jpg"
+            },
+            {
+                "id":5,
+                "name": "Taco",
+                "price": 8000,
+                "description": "A delicious taco",
+                "categories": [{"name": "Fast Food", "color": "#fa8e3c"}],
+                "rating": 4.3,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/taco.jpg"
+            },
+            {
+                "id":6,
+                "name": "Tofu",
+                "price": 3000,
+                "description": "A delicious tofu",
+                "categories": [{"name":"Healthy", "color": "#14b8a6"}],
+                "rating": 4.1,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/tofu.jpg"
+            },
+            {
+                "id":7,
+                "name": "Cola",
+                "price": 5000,
+                "description": "A delicious cola",
+                "categories": [{"name":"Drink", "color": "#3b82f6"}],
+                "rating": 4.6,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/cola.jpg"
+            },
+            {
+                "id":8,
+                "name": "Water",
+                "price": 2000,
+                "description": "A delicious water",
+                "categories": [{"name":"Drink", "color": "#3b82f6"}, {"name":"Healthy", "color": "#14b8a6"}],
+                "rating": 4.4,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/water.jpg"
+            },
+            {
+                "id":9,
+                "name": "Fries",
+                "price": 13000,
+                "description": "A delicious fries",
+                "categories": [{"name": "Fast Food", "color": "#fa8e3c"}],
+                "rating": 4.9,
+                "available": true,
+                "recomended": true,
+                "img": "/assets/food/fries.jpg"
+            }
+        ],
+    "waitinglist": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "chairs": [8,9,10,11],
+            "start": {
+                "hour": 14,
+                "minute": 30
+            },
+            "end":{
+                "hour": 15,
+                "minute": 0
+            }
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "chairs": [28],
+            "start": {
+                "hour": 8,
+                "minute": 30
+            },
+            "end": {
+                "hour": 10,
+                "minute": 30
+            }
+        },
+        {
+            "id": 3,
+            "name": "John Smith",
+            "chairs": [5,6,7],
+            "start": {
+                "hour": 10,
+                "minute": 0
+            },
+            "end": {
+                "hour": 11,
+                "minute": 0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Tolo",
+            "chairs": [12,13,14],
+            "start": {
+                "hour": 13,
+                "minute": 30
+            },
+            "end": {
+                "hour": 18,
+                "minute": 0
+            }
+        }
+    ]
+}
