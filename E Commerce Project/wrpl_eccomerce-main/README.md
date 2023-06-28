@@ -4,33 +4,7 @@
 - UI: Tailwind, chart.js, react-chartjs
 - DB: MongoDB, Mongoose
 - Payment: PayPal, Stripe
-- Content Hosting: cloudinary
-- Deploy: Github, Vercel, MongoDB Atlas
 
-![next amazona](/public/app.jpg)
-
-## Resources
-
-- Youtube Video : https://youtu.be/_IBlyR5mRzA
-- Demo Website :  https://next-tailwind-amazona.vercel.app
-- Source Code   :  https://github.com/basir/next-tailwind-amazona
-- Full Course: [basir.thinkific.com](https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90)
-
-## What you will learn
-
-- NextJS basics like setting up project, navigating between pages and data fetching
-- NextJS advanced topics like dynamic routing, image optimization,  SSG and SSR
-- Tailwind CSS framework to build responsive website using custom theme, animation and carousel
-- ReactJS including decomposing components, context API and hooks
-- Next Auth package to authenticate customers and admin users
-- MongoDB and Mongoose to save and retrieve data like products, orders and users
-- PayPal developer api to make online payment
-- Deploy web applications on servers like Vercel and Netlify
-
-## Full Course
-
-Get this course by 90% discount on Thinkific:
-https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90
 
 ## Run Locally
 
