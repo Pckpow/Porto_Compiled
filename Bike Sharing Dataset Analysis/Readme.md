@@ -1,4 +1,4 @@
-# Dicoding Bike Sharing Dataset Dashboard ✨
+# Bike Sharing Dataset Dashboard ✨
 
 ## Setup environment - Anaconda
 ```
